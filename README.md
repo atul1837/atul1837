@@ -1,6 +1,6 @@
 ## Hi, Atul here <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-#### I am currently a sophomore at UIET, Panjab University pursuing my bachelors in Information Technology. I share a keen interest in Web development and Competitive programming and have a demonstrated history of work experience as a full stack MERN developer.
+#### I am currently a final year student at UIET, Panjab University pursuing my bachelors in Information Technology. I share a keen interest in Web development and Competitive programming and have a demonstrated history of work experience as a full stack MERN developer.
 
 ## Connect with me:
 
